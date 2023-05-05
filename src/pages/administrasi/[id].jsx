@@ -42,7 +42,7 @@ console.log('itemQuiz :>> ', itemQuiz.questions.length);
         <title>Quiz {id}</title>
       </Head>
 
-      <main className="max-w-3xl mx-auto px-4 py-12">
+      <main className="max-w-3xl mx-auto px-4 py-12 text-white">
         <h1 className="text-4xl font-bold text-center mb-8">Quiz Administrasi</h1>
         <h1 className="text-4xl font-bold text-center mb-8"></h1>
 

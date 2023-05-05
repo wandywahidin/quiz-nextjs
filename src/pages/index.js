@@ -12,7 +12,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className="max-w-3xl mx-auto px-4 py-12">
+      <main className="max-w-3xl mx-auto px-4 py-12 text-white">
         <h1 className="text-4xl font-bold text-center mb-8">Hallo Sindi, <br/> Selamat Mengerjakan!</h1>
 
         <div className="grid md:grid-cols-2 grid-flow-row gap-4 ">
