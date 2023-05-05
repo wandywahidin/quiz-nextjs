@@ -1,0 +1,191 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "Hal-hal berikut ini termasuk dalam pokok-pokok perjanjian kerja, kecuali …",
+        "options": [
+          "penempatan",
+          "tunjangan",
+          "uang muka",
+          "jaminan sosial"
+        ],
+        "answer": "uang muka"
+      },
+      {
+        "id": 2,
+        "question": "Berikut merupakan kelengkapan atau lampiran surat lamaran pekerjaan, kecuali …",
+        "options": [
+          "Daftar Riwayat Hidup",
+          "Pas Foto",
+          "Surat ijin orang tua",
+          "Surat Keterangan Dokter"
+        ],
+        "answer": "Surat ijin orang tua"
+      },
+      {
+        "id": 3,
+        "question": "Suatu arsip dapat dimanfaatkan untuk menentukan kebijakan organisasi, maka arsip tersebut berarti mempunyai nilai guna …",
+        "options": [
+          "Informatoris",
+          "Yuridis",
+          "Haluan organisasi",
+          "lmiah"
+        ],
+        "answer": "Informatoris"
+      },
+      {
+        "id": 4,
+        "question": "Lembaran yang dipergunakan oleh pimpinan untuk menuliskan tentang tindak lanjut dan siapa yang ditunjuk melakukan tindak lanjut atas suatu surat masuk disebut …",
+        "options": [
+          "Lembar Tunjuk Silang",
+          "Lembar Disposisi",
+          "Lembar Pengiriman",
+          "Lembar Pengantar"
+        ],
+        "answer": "Lembar Disposisi"
+      },
+      {
+        "id": 5,
+        "question": "Fungsi notula adalah sebagai berikut, kecuali …",
+        "options": [
+          "Bahan bukti tertulis",
+          "Alat pengingat untuk peserta rapat",
+          "Sebagai bahan pembanding",
+          "Sebagai sumber informasi bagi yang tidak hadir dalam rapat"
+        ],
+        "answer": "Sebagai bahan pembanding"
+      },
+      {
+        "id": 6,
+        "question": "Function Base Classification adalah klasifikasi arsip yang digunakan dalam filing system, kecuali …",
+        "options": [
+          "Alphabetical",
+          "Subject",
+          "Date",
+          "Numeric"
+        ],
+        "answer": "Date"
+      },
+      {
+        "id": 7,
+        "question": "Dari sekian tamu yang telah hadir, mereka yang diprioritaskan dipertemukan terlebih dahulu dengan pimpinan adalah …",
+        "options": [
+          "Tamu yang sudah membuat perjanjian sebelumnya",
+          "Teman dekat pimpinan",
+          "Relasi perusahaan",
+          "Staf ahli pimpinan"
+        ],
+        "answer": "Tamu yang sudah membuat perjanjian sebelumnya"
+      },
+      {
+        "id": 8,
+        "question": "Jika arsip disimpan menurut sistem nomor Terminal Digit, surat bernomor kode 1324 dapat diketemukan dalam folder nomor …",
+        "options": [
+          "24/13",
+          "20 29",
+          "24/31",
+          "24"
+        ],
+        "answer": "24/13"
+      },
+      {
+        "id": 9,
+        "question": "Suatu angka yang menunjukan seberapa lama arsip disimpan sebelum dimusnahkan atau disingkirkan disebut …",
+        "options": [
+          "Angka penilaian",
+          "Angka penggunaan",
+          "Angka kecermatan",
+          "Angka penyusutan"
+        ],
+        "answer": "Angka penyusutan"
+      },
+      {
+        "id": 10,
+        "question": "Seorang presenter dituntut bisa menyampaikan informasi secara menarik kepada audiens. Perangkat lunak yang tepat digunakan untuk menyiapkan presentasi adalah …",
+        "options": [
+          "Microsoft Office Word",
+          "Microsoft Office Tools",
+          "Microsoft Office Access",
+          "Microsoft Office PowerPoint"
+        ],
+        "answer": "Microsoft Office PowerPoint"
+      },
+      {
+        "id": 11,
+        "question": "Seorang sekretaris harus mampu menentukan aplikasi perangkat lunak untuk mengolah dokumen aplikasi yang paling tepat untuk membuat laporan keuangan adalah ...",
+        "options": [
+          "Microsoft Office Tools",
+          "Microsoft Office Excel",
+          "Microsoft Office Access",
+          "Microsoft Office PowerPoint"
+        ],
+        "answer": "Microsoft Office Excel"
+      },
+      {
+        "id": 12,
+        "question": "Mengirimkan email langsung ke sebuah alamat tertentu biasa disebut ….",
+        "options": [
+          "Distribution List",
+          "Discussion List",
+          "Point to Point",
+          "Carbon Copy"
+        ],
+        "answer": "Point to Point"
+      },
+      {
+        "id": 13,
+        "question": "Undangan rapat sebaiknya diterima oleh peserta rapat paling lambat …",
+        "options": [
+          "5 hari sebelum rapat",
+          "10 hari sebelum rapat",
+          "15 hari sebelum rapat",
+          "1 hari sebelum rapat"
+        ],
+        "answer": "5 hari sebelum rapat"
+      },
+      {
+        "id": 14,
+        "question": "Hasil suatu pembicaraan rapat yang telah ditulis dengan rapi disebut … ",
+        "options": [
+          "Laporan",
+          "Risalah",
+          "Rangkuman",
+          "Notulen"
+        ],
+        "answer": "Notulen"
+      },
+      {
+        "id": 15,
+        "question": "Tanda tangan penanggung jawab surat pada bentuk semi block adalah… ",
+        "options": [
+          "Di sebelah tengah",
+          "Di sebelah kanan bawah",
+          "Di sebelah kanan atas",
+          "Di sebelah kiri bawah"
+        ],
+        "answer": "Di sebelah kanan bawah"
+      },
+      {
+        "id": 16,
+        "question": "Dalam surat niaga sering digunakan istilah-istilah yang mempunyai arti tersendiri, seperti ℅ (care of) artinya adalah … ",
+        "options": [
+          "Atas nama",
+          "Idem",
+          "Per alamat",
+          "Dengan alamat"
+        ],
+        "answer": "Atas nama"
+      },
+      {
+        "id": 17,
+        "question": "Buku yang dipergunakan untuk menghantarkan surat ke alamat tujuan adalah … ",
+        "options": [
+          "Buku jurnal",
+          "Buku arsip",
+          "Buku ekspedisi",
+          " Buku verbal"
+        ],
+        "answer": "Buku ekspedisi"
+      }
+    ]
+  }
